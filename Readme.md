@@ -6,7 +6,7 @@ It is called bubble sort because the movement of array elements is just like the
 -> Algorithm
 In the algorithm given below, suppose arr is an array of n elements. The assumed swap function in the algorithm will swap the values of given array elements.
 
-begin BubbleSort(arr)  
+begin BubbleSort(arr)  da
  for all array elements  
   if arr[i] > arr[i+1]  
      swap(arr[i], arr[i+1])  
