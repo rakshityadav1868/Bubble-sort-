@@ -9,7 +9,7 @@ In the algorithm given below, suppose arr is an array of n elements. The assumed
 begin BubbleSort(arr)  
  for all array elements  
   if arr[i] > arr[i+1]  
-     swap(arr[i], arr[i+1])  
+     swap(arr[i], arr[i+1])  aa
   end if  
  end for     
 return arr     
