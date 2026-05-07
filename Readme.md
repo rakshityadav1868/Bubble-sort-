@@ -21,7 +21,7 @@ Time Complexity
 
 Case	Time Complexity
 Best Case	O(n)
-Average Case	O(n2)
+Average Case	O(n2)jk
 Worst Case	O(n2)
 Best Case Complexity - It occurs when there is no sorting required, i.e. the array is already sorted. The best-case time complexity of bubble sort is O(n).
 Average Case Complexity - It occurs when the array elements are in jumbled order that is not properly ascending and not properly descending. The average case time complexity of bubble sort is O(n2).
